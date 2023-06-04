@@ -328,7 +328,6 @@ describe("Slice 2: Unlocking & Rendering Producers", function () {
     });
   });
 
-  /
   describe("The clickCoffee function", function () {
     // Clear out our fake DOM.
     beforeEach("reset the fake DOM", function () {
